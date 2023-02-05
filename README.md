@@ -25,3 +25,8 @@ Brainstorm:
 
 Wireframing:
 
+<img src = "https://github.com/trishtruong/Pawse-Project/blob/main/Wireframes/Start%20Page.png">
+<img src = "https://github.com/trishtruong/Pawse-Project/blob/main/Wireframes/About.png">
+<img src = "https://github.com/trishtruong/Pawse-Project/blob/main/Wireframes/Sign-Up.png">
+<img src = "https://github.com/trishtruong/Pawse-Project/blob/main/Wireframes/Surveys.png">
+<img src = "https://github.com/trishtruong/Pawse-Project/blob/main/Wireframes/Learning%20Modules.png">
