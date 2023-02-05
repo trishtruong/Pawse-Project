@@ -1,0 +1,20 @@
+.subject {
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 35;
+}
+.contact_title {
+    font-family: 'Inter';
+    font-size: 25;
+}
+
+.p {
+    text-align: left;
+}
+
+.rect_about {
+    width: 811px;
+    height: 560px;
+    background-color: #FFE9EB;
+    stroke: #B16F78;
+}
