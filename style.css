@@ -8,6 +8,8 @@ html {
 
   body {
     color: #b16f78;
+    margin: 0px;
+    padding: 0px;
   }
 
   h1 {
@@ -18,17 +20,21 @@ html {
 
   nav {
     background-color: #ffe9eb;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
   }
   
   nav .pages li {
-    float: left;
+    float: right;
   }
   
   nav .pages a {
     display: block;
     color: black;
     background-color: #ffe9eb;
-    padding: 17px;
+    padding: 40px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
     text-decoration: none;
   }
   nav ul {
@@ -37,7 +43,6 @@ html {
     padding: 0px;
     overflow: hidden;
     background-color: #ffe9eb;
-    box-shadow: 0 2px 2px -2px rgba(0,0,0,.2);
   }
   nav .pages a:hover {
     background-color: white;
